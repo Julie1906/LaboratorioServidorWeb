@@ -5,7 +5,7 @@
  * Materia: Computación en el Servidor Web
  * Nombre del profesor: Octavio Aguirre Lozano
  * Descripción: Clase modelo que define los métodos
- * con las operaciones a ralizar en la base de datos
+ * con las operaciones a realizar en la base de datos
  * con la tabla de unidades.
  */
 require_once("../db/db.php");
