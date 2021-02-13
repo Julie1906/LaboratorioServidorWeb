@@ -4,9 +4,9 @@
  * Maestría: Ingeniería del Software y Sistemas Informáticos
  * Materia: Computación en el Servidor Web
  * Nombre del profesor: Octavio Aguirre Lozano
- * Descripción: Controlador que permite acceder al modelo de datos
- * de los productos y efectuar la consulta para ser mostrados
- * en la vista.
+ * Descripción: Controlador que permite acceder al modelo 	de datos 		
+ * de los productos, efectuar las operaciones solicitadas y enviar los resultados a 		
+ * las vistas correspondientes. .
  */
 
 //Se consideran los siguientes casos para los flujos que REGISTRO, MODIFICACIÓN y BAJA de productos
