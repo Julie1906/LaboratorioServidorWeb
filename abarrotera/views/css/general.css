@@ -1,0 +1,33 @@
+/**
+ * Nombre: Juliana López Ramírez
+ * Maestría: Ingeniería del Software y Sistemas Informáticos
+ * Materia: Computación en el Servidor Web
+ * Nombre del profesor: Octavio Aguirre Lozano
+ * Descripción: Archivo para el formato general de las
+ * páginas.
+ */
+ body{
+    background-color: rgb(211, 233, 243);
+ }
+ table {
+     width: min-content;
+ }
+ table, th, td {
+    border-collapse: collapse;
+    padding: 15px;
+    text-align: left;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+    width:auto;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+img{
+    width: 20%;
+}
+p{
+    color:rgb(252, 62, 226)
+}
